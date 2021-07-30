@@ -1,6 +1,6 @@
 ## Summary:
 
-Angular design of a management system
+Angular project of a management system
 task. Tasks are saved in local storage
 
 ## Requirements guide:
